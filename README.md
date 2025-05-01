@@ -39,7 +39,9 @@ Python 3.10+
 
 Git
 
-poetry instalado (para gerenciamento de dependências)
+GitHub
+
+Poetry instalado (para gerenciamento de dependências)
 
 
 
