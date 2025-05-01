@@ -1,6 +1,6 @@
 # 🐍 python-basis
 
-Este repositório faz parte da minha jornada de aprendizado no curso **python-base da LinuxTips**, que estou realizando através do **programecomoumagarota** — uma iniciativa incrível para incentivar e inserir mais mulheres na tecnologia. 💜
+Este repositório faz parte da minha jornada de aprendizado no curso **python-base da LinuxTips**, que estou realizando através do [Programe como uma Garota](https://www.linkedin.com/company/programecomouma-garota/posts/?feedView=all) — uma iniciativa incrível para incentivar e inserir mais mulheres na tecnologia. 💜
 
 Aqui você encontrará meus estudos, anotações, códigos e práticas, que estão sendo atualizados conforme avanço no curso.  
 Sinta-se à vontade para explorar, se inspirar ou contribuir!
@@ -36,13 +36,13 @@ Contribuições são bem-vindas! Sinta-se livre para abrir issues ou enviar pull
 
 ## 🧠 Requisitos
 Python 3.10+
+
 Git
+
 poetry instalado (para gerenciamento de dependências)
 
-## 🔗 Links Úteis
-Documentação Oficial do Python
-Poetry - Gerenciador de Dependências
-LinuxTips
 
-## 🐧 Curso por: LinuxTips
-Aprenda mais, com conteúdo direto ao ponto e altamente técnico! 💥
+
+
+
+
