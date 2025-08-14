@@ -1,0 +1,4 @@
+minha terceira nota	10	parabens
+minha terceira nota	tech	Golang
+Repetições	python	while e for para repetições
+Meu Post Legal	geral	Hello
